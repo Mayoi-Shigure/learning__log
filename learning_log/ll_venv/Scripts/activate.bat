@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Mao\Desktop\python\learning_log\ll_venv
+set VIRTUAL_ENV=C:\Users\何宇轩\Desktop\my_project\learning__log\learning_log\ll_venv
 
 if not defined PROMPT set PROMPT=$P$G
 
